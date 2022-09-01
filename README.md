@@ -1,4 +1,4 @@
-# Recreating-John-Snow-s-Ghost-Map
+# Recreating Ghost Map of John Snow
 Recreation of one of the first examples of data visualization, epidemiology and exploratory data analysis.
 
 Dr. John Snow (1813-1858) was a famous British physician and is widely recognized as a legendary figure in the history of public health and a leading pioneer in the development of anesthesia. Some even say one of the greatest physicians of all time.  This is not to be confused with the popular character from Game of Thrones.
